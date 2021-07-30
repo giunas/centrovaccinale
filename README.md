@@ -6,7 +6,7 @@ Il database era hostato su un servizio di hosting, quindi è necessario effettua
 
 Il database ha un account per il medico le cui credenziali sono:
 
-EMAIL: email@email.com
+EMAIL: email@email.com\n
 PASSWORD: prova
 
 e un account per il funzionario dell'ASP le cui credenziali sono:
