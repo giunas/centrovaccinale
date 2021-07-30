@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+	<xs:element name="Vaccinazioni">
+        <xs:complexType>
+			<xs:sequence>
+                <xs:element name="Vaccinazione" minOccurs="0" maxOccurs="unbounded">
+                    <xs:complexType>
+					    <xs:sequence>
+                            <xs:element name="cf" type="xs:string" />
+                            <xs:element name="data_eff" type="xs:string" />
+                            <xs:element name="ora_eff" type="xs:string" />
+                            <xs:element name="vaccino" type="xs:string" />
+                            <xs:element name="email_medico_fk" type="xs:string" />
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<categories xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="pathologies.xsd">
+	<category id="cat1">
+		<name>Soggetto vulnerabile per Patologia</name>
+		<specifications>
+			<specification id="cat1spec1"><name>Sindrome Down</name></specification>
+			<specification id="cat1spec2"><name>Estremamente magri</name></specification>
+			
+			<specification id="cat1spec3">
+				<name>Malattie respiratorie</name>
+				<pathologies>
+					<pathology id="518.81-518.83">INSUFFICIENZA RESPIRATORIA CRONICA</pathology>
+					<pathology id="HG010">MALATTIE RARE - MALATTIE INTERSTIZIALI POLMONARI PRIMITIVE</pathology>
+				</pathologies>
+			</specification>
+			
+			<specification id="cat1spec4">
+				<name>Malattie cardiocircolatorie</name>
+				<pathologies>
+					<pathology id="428">INSUFFICIENZA CARDIACA (N.Y.H.A. CLASSE III E IV)</pathology>
+					<pathology id="394">AFFEZIONI DEL SISTEMA CIRCOLATORIO - MALATTIE CARDIACHE E DEL CIRCOLO POLMONARE- MALATTIE DELLA VALVOLA MITRALE</pathology>
+					<pathology id="395">MALATTIE DELLA VALVOLA AORTICA</pathology>
+					<pathology id="396">MALATTIE DELLE VALVOLE MITRALE E AORTICA</pathology>
+					<pathology id="397">MALATTIE DI ALTRE STRUTTURE ENDOCARDICHE</pathology>
+					<pathology id="414">ALTRE FORME DI CARDIOPATIA ISCHEMICA CRONICA</pathology>
+					<pathology id="416">MALATTIA CARDIOPOLMONARE CRONICA</pathology>
+					<pathology id="417">ALTRE MALATTIE DEL CIRCOLO POLMONARE</pathology>
+					<pathology id="424">ALTRE MALATTIE DELL'ENDOCARDIO</pathology>
+					<pathology id="426">DISTURBI DELLA CONDUZIONE</pathology>
+					<pathology id="427">ARITMIE CARDIACHE</pathology>
+					<pathology id="429.4">DISTURBI FUNZIONALI SUCCESSIVI A CHIRURGIA CARDIACA</pathology>
+					<pathology id="745">ANOMALIE DEL BULBO CARDIACO E DEL SETTO CARDIACO</pathology>
+					<pathology id="746">ALTRE MALFORMAZIONI  DEL CUORE</pathology>
+					<pathology id="V42.2">VALVOLA CARDIACA SOSTITUITA DA TRAPIANTO</pathology>
+					<pathology id="V43.3">VALVOLA CARDIACA SOSTITUITA  CON ALTRI MEZZI</pathology>
+					<pathology id="V43.4">VASO SANGUIGNO SOSTITUITO CON ALTRI MEZZI</pathology>
+					<pathology id="V45.0">DISPOSITIVO CARDIACO POSTCHIRURGICO IN SITU</pathology>
+				</pathologies>
+			</specification>
+			
+			<specification id="cat1spec5">
+				<name>Condizioni neurologiche e disabilità</name>
+				<pathologies>
+					<pathology id="358.0">MIASTENIA  GRAVE</pathology>
+					<pathology id="340">SCLEROSI MULTIPLA</pathology>
+					<pathology id="051">SOGGETTI NATI CON CONDIZIONI  DI GRAVE DEFICIT FISICI, SENSORIALI E NEUROPSICHICI</pathology>
+					<pathology id="F0100">MALATTIE RARE - SCLEROSI LATERALE AMIOTROFICA</pathology>
+					<pathology id="F0180">MALATTIE RARE - POLINEUROPATIA CRONICA INFIAMMATORIA DEMIELINEZZANTE</pathology>
+					<pathology id="F0181">MALATTIE RARE - NEUROPATIA MOTORIA MULTIFOCALE</pathology>
+					<pathology id="F0182">MALATTIE RARE - LEWIS SUMNER, SINDROME DI</pathology>
+					<pathology id="F0183">MALATTIE RARE - GUILLAIN-BARR, SINDROME DI   (LIMITATAMENTE ALLE FORME CRONICHE, GRAVI ED INVALIDANTI)</pathology>
+					<pathology id="FG101">MALATTIE RARE - SINDROMI MIASTENICHE CONGENITE E DISIMMUNI</pathology>
+					<pathology id="290.0">DEMENZA SENILE NON COMPLICATA</pathology>
+					<pathology id="290.1">DEMENZA PRESENILE</pathology>
+					<pathology id="290.4">DEMENZA ARTERIOSCLEROTICA</pathology>
+					<pathology id="290.2">DEMENZA SENILE, CON ASPETTI DELIRANTI O DEPRESSSIVI</pathology>
+					<pathology id="294.0">SINDROME AMNESTICA (NON ALCOOLICA)</pathology>
+					<pathology id="291.1">SINDROME AMNESTICA DA ALCOOL</pathology>
+					<pathology id="331.0">MALATTIA DI ALZHEIMER</pathology>
+					<pathology id="332">MORBO DI PARKINSON E LE ALTRE MALATTIE EXTRAPIRAMIDALI</pathology>
+					<pathology id="333.1">TREMORE ESSENZIALE ED ALTRE FORME SPECIFICATE DI TREMORE</pathology>
+					<pathology id="333.0">ALTRE MALATTIE DEGENERATIVE DEI NUCLEI DELLA BASE</pathology>
+					<pathology id="333.5">ALTRE FORME DI COREA</pathology>
+					<pathology id="N0750">SCLEROSI TUBEROSA</pathology>
+					<pathology id="FG040">ALTRI DIFETTI CONGENITI DEL TRASPORTO DI VITAMINE E COFATTORI NON PROTEICI</pathology>
+					<pathology id="FG060">NEUROPATIE EREDITARIE</pathology>
+					<pathology id="FG070">MIOPATIE CONGENITE EREDITARIE</pathology>
+					<pathology id="FG080">DISTROFIE MUSCOLARI</pathology>
+				</pathologies>
+			</specification>
+			
+			<specification id="cat1spec6">
+				<name>Diabete/altre endocrinopatie severe</name>
+				<pathologies>
+					<pathology id="250">DIABETE MELLITO</pathology>
+					<pathology id="255.4">INSUFFICIENZA CORTICOSURRENALE ( MORBO DI ADDISON )</pathology>
+				</pathologies>
+			</specification>
+			
+			<specification id="cat1spec7"><name>Fibrosi cistica</name></specification>
+			
+			<specification id="cat1spec8">
+				<name>Insufficienza/Patologia renale</name>
+				<pathologies>
+					<pathology id="585">INSUFFICIENZA RENALE CRONICA</pathology>
+					<pathology id="581.1; 581.2">SINDROME NEFROSICA CON LESIONI DI GLOMERULONEFRITE</pathology>
+					<pathology id="582.1">GLOMERULONEFRITE CRONICA CON LESIONI</pathology>
+					<pathology id="582.2">GLOMERULONEFRITE ATTIVA</pathology>
+					<pathology id="582.4">GLOMERULONEFRITE MESANGIOPROLIFERATIVA</pathology>
+					<pathology id="587">GLOMERULONEFRITE CRONICA CON LESIONI</pathology>
+					<pathology id="590.0">RENE GRINZO GLOMERULONEFRITICO</pathology>
+				</pathologies>
+			</specification>
+			
+			<specification id="cat1spec9">
+				<name>Malattia epatica</name>
+				<pathologies>
+					<pathology id="571.2">CIRROSI EPATICA ALCOOLICA</pathology>
+					<pathology id="571.5">CIRROSI EPATICA SENZA MENZIONE DI ALCOOL</pathology>
+					<pathology id="571.6">CIRROSI BILIARE</pathology>
+				</pathologies>
+			</specification>
+			
+			<specification id="cat1spec10">
+				<name>Malattie cerebrovascolari</name>
+				<pathologies>
+					<pathology id="433">AFFEZIONI DEL SISTEMA CIRCOLATORIO - MALATTIE CEREBROVASCOLARI - OCCLUSIONE E STENOSI DELLE ARTERIE PRECEREBRALI</pathology>
+					<pathology id="434">OCCLUSIONE DELLE ARTERIE CEREBRALI</pathology>
+					<pathology id="437">ALTRE E MAL DEFINITE VASCULOPATIE CEREBRALI</pathology>
+				</pathologies>
+			</specification>
+			
+			<specification id="cat1spec11">
+				<name>Pat. onco-ematologiche ed emoglobinopatie</name>
+				<pathologies>
+					<pathology id="048">SOGGETTI AFFETTI DA PATOLOGIE  NEOPLASTICHE MALIGNE E DA TUMORI DI COMPORTAMENTO INCERTO</pathology>
+					<pathology id="DG010">MALATTIE RARE - ANEMIE EREDITARIE</pathology>
+				</pathologies>
+			</specification>
+			
+			<specification id="cat1spec12">
+				<name>Trapianto organo solido e cellule staminali</name>
+				<pathologies>
+					<pathology id="050">SOGGETTI IN ATTESA DI TRAPIANTO ( RENE, CUORE, POLMONE, FEGATO, PANCREAS, CORNEA, MIDOLLO )</pathology>
+					<pathology id="V42.0">SOGGETTI SOTTOPOSTI A TRAPIANTO (RENE,CUORE,POLMONE,FEGATO,PANCREAS,MIDOLLO)</pathology>
+					<pathology id="V42.1">CUORE SOSTITUITO DA TRAPIANTO</pathology>
+					<pathology id="V42.6">POLMONE SOSTITUITO DA TRAPIANTO</pathology>
+					<pathology id="V42.7">FEGATO SOSTITUITO DA TRAPIANTO</pathology>
+					<pathology id="V42.8">ALTRO ORGANO O TESSUTO SPECIFICATO SOSTITUITO DA TRAPIANTO: PANCREAS</pathology>
+					<pathology id="V42.9">ORGANO O TESSUTO SPECIFICATO SOSTITUITO DA TRAPIANTO</pathology>
+					<pathology id="058">DONATORI D'ORGANO</pathology>
+				</pathologies>
+			</specification>
+			
+			<specification id="cat1spec13"><name>Grave obesità</name></specification>
+			
+			<specification id="cat1spec14">
+				<name>Malattie autoimmuni-immunodeficienze</name>
+				<pathologies>
+					<pathology id="283.0">ANEMIE EMOLITICHE AUTOIMMUNI</pathology>
+					<pathology id="714.0">ARTRITE REUMATOIDE</pathology>
+					<pathology id="714.1">SINDROME DI FELTY</pathology>
+					<pathology id="714.2">ALTRE ARTRITI REUMATOIDI CON INTERESSAMENTO VISCERALE O SISTEMICO</pathology>
+					<pathology id="714.30">ARTRITE REUMATOIDE GIOVANILE, CRONICA O NON SPECIFICATA, POLIARTICOLARE</pathology>
+					<pathology id="714.32">ARTRITE REUMATOIDE GIOVANILE E PAUCIARTICOLARE</pathology>
+					<pathology id="714.33">ARTRITE REUMATOIDE GIOVANILE MONOARTICOLARE</pathology>
+					<pathology id="555">ENTERITE REGIONALE</pathology>
+					<pathology id="556">COLITE ULCEROSA</pathology>
+					<pathology id="042">INFEZIONE DA HIV</pathology>
+					<pathology id="577.1">PANCREATITE CRONICA</pathology>
+					<pathology id="V08">STATO INFETTIVO ASINTOMATICO  DA  VIRUS DA IMMUNODEFICENZA UMANA (HIV)</pathology>
+					<pathology id="710.0">LUPUS ERITEMATOSO SISTEMICO</pathology>
+					<pathology id="696.0">PSORIASI (ARTROPATICA, PUSTOLOSA GRAVE, ERITRODERMICA)</pathology>
+					<pathology id="696.1">ALTRE PSORIASI</pathology>
+					<pathology id="710.1">SCLEROSI SISTEMICA (PROGRESSIVA)</pathology>
+					<pathology id="720.0">SPONDILITE ANCHILOSANTE</pathology>
+					<pathology id="710.9">CONNETTIVITI INDIFFERENZIATE</pathology>
+					<pathology id="C0190">MALATTIE RARE - ANGIOEDEMA EREDITARIO</pathology>
+					<pathology id="C0191">MALATTIE RARE - ANGIOEDEMA ACQUISITO DA DEFICIT DI C1 INIBITORE</pathology>
+					<pathology id="C0200">MALATTIE RARE - CARENZA CONGENITA DI ALFA1 ANTITRIPSINA</pathology>
+					<pathology id="C0220">MALATTIE RARE - SINDROME DA ANTICORPI ANTIFOSFOLIPIDI (FORMA PRIMITIVA)</pathology>
+					<pathology id="C0290">MALATTIE RARE - SINDROME DI SCHNITZLER</pathology>
+					<pathology id="CG150">MALATTIE RARE - ISTOCITOSI CRONICHE</pathology>
+					<pathology id="CG160">MALATTIE RARE - IMMUNODEFICIENZE PRIMARIE</pathology>
+					<pathology id="CG161">MALATTIE RARE - SINDROMI AUTOINFIAMMATORIE EREDITARIE/FAMILIARI</pathology>
+					<pathology id="G0050">GRANULOMATOSI EOSINOFILICA CON POLIANGITE</pathology>
+				</pathologies>
+			</specification>
+			
+			<specification id="cat1spec15"><name>Disabili gravi ex L.104/92 art.3 co. 3</name></specification>
+		</specifications>
+	</category>
+	
+	<category id="cat2">
+		<name>Età &gt; 60</name>
+		<specifications>
+			<specification id="cat2spec1"><name>Over 80</name></specification>
+			<specification id="cat2spec2"><name>Età 60-79 anni</name></specification>
+		</specifications>
+	</category>
+	
+	<category id="cat3">
+		<name>Età &lt; 60</name>
+		<specifications>
+			<specification id="cat3spec1"><name>16-59 anni con patologie non gravi</name></specification>
+			<specification id="cat3spec2"><name>Età tra 50 e 59 anni senza patologie</name></specification>
+		</specifications>
+	</category>
+	
+	<category id="cat4">
+		<name>Forze di Polizia</name>
+		<specifications>
+			<specification id="cat4spec1"><name>Comparto Forze dell'Ordine</name></specification>
+		</specifications>
+	</category>
+	
+	<category id="cat5">
+		<name>Studente area sanitaria / Operatore sanitario / Medico</name>
+		<specifications>
+			<specification id="cat5spec1"><name>Personale sanitario</name></specification>
+		</specifications>
+	</category>
+	
+	<category id="cat6">
+		<name>Operatore Scolastico</name>
+		<specifications>
+			<specification id="cat6spec1"><name>Personale scolastico</name></specification>
+		</specifications>
+	</category>	
+	
+	<category id="cat7">
+		<name>Convivente/Caregiver soggetto ad alto rischio</name>
+		<specifications>
+			<specification id="cat7spec1"><name>Convivente/Caregiver soggetto alto rischio</name></specification>
+		</specifications>
+	</category>	
+	
+	<category id="cat8">
+		<name>Altro</name>
+		<specifications>
+			<specification id="cat8spec1"><name>Altro</name></specification>
+		</specifications>
+	</category>	
+	
+	<category id="cat9">
+		<name>Nessuna indicazione</name>
+		<specifications>
+			<specification id="cat9spec1"><name>Nessuna indicazione</name></specification>
+		</specifications>
+	</category>	
+</categories>

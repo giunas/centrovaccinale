@@ -1,0 +1,54 @@
+* {box-sizing: border-box}
+
+/* Set height of body and the document to 100% */
+body, html {
+  height: 100%;
+  margin: 0;
+  font-family: Arial;
+  background-color: #c9cdf0;
+}
+
+.tab {
+  float: left;
+  width: 30%;
+  top: 40%;
+  position: relative;
+}
+
+
+.tab button {
+  display: block;
+  background-color: #555;
+  color: white;
+  padding: 14px 16px;
+  /*width: 100%;*/
+  /*width: 25%;*/
+  width: 50px;
+  border: none;
+  outline: none;
+  /*text-align: left;*/
+  cursor: pointer;
+  font-size: 17px;
+}
+
+
+
+/*.tablink:hover {
+  background-color: #777;
+}*/
+
+/* Style the tab content (and add height:100% for full page content) */
+.tabcontent {
+  color: white;
+  /*display: none;*/
+  /*padding: 100px 20px;*/
+  padding: 100px 20px 20px 200px;
+  height: 100%;
+  
+  text-align:left;
+}
+
+/*#Home {background-color: red;}
+#News {background-color: green;}
+#Contact {background-color: blue;}
+#About {background-color: orange;}*/
